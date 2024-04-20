@@ -1,4 +1,5 @@
 # ClaseDosAndresGuancha
+##### Autor: Jorge Andres Guancha Ortiz
 ## Titulo dos
 ### Titulo tres
 Creación de repositorio y manejo de MarkDown
