@@ -6,7 +6,12 @@ Creación de repositorio y manejo de MarkDown
 - Version uno.
 - Version dos.
 
+`código en línea`
 
+```python
+def hola_mundo():
+    print("Hola, mundo!")
+```
 
 ## Referencias
 
