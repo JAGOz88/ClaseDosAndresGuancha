@@ -6,6 +6,8 @@ Creación de repositorio y manejo de MarkDown
 - Version uno.
 - Version dos.
 
+
+## Código
 `código en línea`
 
 ```python
