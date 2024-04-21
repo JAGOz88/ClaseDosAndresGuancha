@@ -29,7 +29,7 @@ def hola_mundo():
 </p>
 
 <p align="center">
-<img src="/Logos/Logo.jpg" height="100">
+<img src="/Logos/Logo2.jpg" height="100">
 </p>
 
 ## Referencias
