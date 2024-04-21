@@ -25,11 +25,11 @@ def hola_mundo():
 ## Imágenes
 
 <p align="center">
-<img src="./Logos/Logo.jpg" height="100">                        
+<img src="./Logos/Logo.jpg" height="300">                        
 </p>
 
 <p align="center">
-<img src="./Logos/Logo2.jpg" height="100">
+<img src="./Logos/Logo2.jpg" height="250">
 </p>
 
 ## Referencias
